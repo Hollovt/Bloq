@@ -8,4 +8,5 @@ You can select block by right click on it
 When block is selected the frame is dashed.
 You can add text to block by selectiong it and put text into "Selected block text" TextBox.
 You can change block position by selectiong it and using middle mouse click.
-You can save and load diagram and choose language (Polish or Enlgish)
+You can save and load diagram and choose language (Polish or Enlgish) <br>
+![](https://i.imgur.com/C7adKZJ.png)
